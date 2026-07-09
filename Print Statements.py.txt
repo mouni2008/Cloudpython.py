@@ -1,0 +1,8 @@
+print("\n")
+print("escapesequences")
+print("escape\nsequences")
+print("escape\tsequences")
+print('this is siva\'s phone')
+print("He said,\"this is my  phone\"")
+print("siva's phone")
+
