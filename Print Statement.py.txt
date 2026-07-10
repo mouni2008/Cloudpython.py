@@ -3,13 +3,13 @@ print('Hello World')
 
 print('hello world')
 print('python is awesome')
-//END Arguements
+#END Arguements
 print("hello world!",end="")
 print("python is awesome")
 
 print("2+3",end='=')
 print(2+3)
-//SEP Arguements
+#SP Arguements
 print("Laptop","Powerbank","Mic","Phone",sep=".")
 print(76+4*2)
 
