@@ -1,0 +1,8 @@
+print("It's Hero Time!\n\t- Ben 10")
+
+print("THIS IS AN ERROR")
+#commands 
+#sigle line commands
+'''multi line commands
+'''
+
