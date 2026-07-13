@@ -1,0 +1,14 @@
+#Data Types
+#String :
+name="siva"
+print(name)
+
+#Integer
+age=20
+print(age)
+#Decimal
+balance=18.0
+print(balance)
+#Boolean
+hashcreditcard=False
+print(hashcreditcard)
